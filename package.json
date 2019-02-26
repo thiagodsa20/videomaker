@@ -1,0 +1,22 @@
+{
+  "name": "videomaker",
+  "version": "1.0.0",
+  "description": "Código fonte para realização de vídeos automatizados",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thiagodsa20/videomaker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thiagodsa20/videomaker/issues"
+  },
+  "homepage": "https://github.com/thiagodsa20/videomaker#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  }
+}
